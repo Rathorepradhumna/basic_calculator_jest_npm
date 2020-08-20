@@ -1,0 +1,15 @@
+{
+  "name": "npm1_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Pradhumna",
+  "license": "home",
+  "dependencies": {
+    "jest": "^26.4.1"
+  }
+}
